@@ -1,5 +1,5 @@
 from copy import error
-from crypt import methods
+# from crypt import methods
 from email.quoprimime import body_decode
 import imp
 from turtle import pos, title
